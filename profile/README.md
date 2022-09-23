@@ -1,5 +1,5 @@
 ![ecom logo](https://github.com/ecomfi/.github/raw/master/ecom-blue-rgb.png)
-# Ecom Oy, an Accountor group company
+# Ecom Oy, an Accountor Group company
 
 We develop financial management software for the HVAC and construction sectors in Finland.
 
