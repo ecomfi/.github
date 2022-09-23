@@ -8,4 +8,4 @@ Our solution include a "Classic" windows application that is written mostly in P
 We also have a modern web hosted solution "Ecom Jet" with a NodeJS/React stack running on google cloud infrasctrure.
 
 We are recruiting full stack developers living in Finland (No Finnish skills required).  
-If you are interested in joining our team contact our team manager sami.perasaari@ecom.fi
+If you are interested in joining our team, contact our team manager sami.perasaari@ecom.fi
