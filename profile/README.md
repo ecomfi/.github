@@ -1,7 +1,7 @@
 ![ecom logo](https://github.com/ecomfi/.github/raw/master/ecom-blue-rgb.png)
 # Ecom OY, an Accountor group firm
 
-We develop accounting softwares for the HVAC sector in Finland.
+We develop accounting softwares for the HVAC & construction sector in Finland.
 
 Our solution include a "Classic" windows application that is written mostly in Pascal.
 
