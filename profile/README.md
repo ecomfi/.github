@@ -1,7 +1,7 @@
 ![ecom logo](https://github.com/ecomfi/.github/raw/master/ecom-blue-rgb.png)
 # Ecom Oy, an Accountor group company
 
-We develop accounting software for the HVAC and construction sectors in Finland.
+We develop financial management software for the HVAC and construction sectors in Finland.
 
 Our solutions include a "Classic" Windows application suite written mostly in Pascal, and a modern hosted web solution Ecom Jet with a NodeJS/React stack running on Google cloud infrastructure.
 
