@@ -6,4 +6,4 @@ We develop financial management software for the HVAC and construction sectors i
 Our solutions include a "Classic" Windows application suite written mostly in Pascal, and a modern web solution Ecom with a NodeJS/React stack running on Google cloud infrastructure.
 
 We are recruiting full-stack developers living in Finland. No Finnish skills required.  
-If you are interested in joining our team, contact our team manager sami.perasaari@ecom.fi
+If you are interested in joining our team, contact our team manager sami.perasaari@finago.com
