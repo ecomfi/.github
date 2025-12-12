@@ -1,4 +1,4 @@
-![ecom logo](https://github.com/ecomfi/.github/raw/master/ecom-blue-rgb.png)
+![ecom logo](https://github.com/ecomfi/.github/raw/master/finago-ecom-black.png)
 # Finago Ecom
 
 We develop financial management software for the HVAC and construction sectors in Finland.
